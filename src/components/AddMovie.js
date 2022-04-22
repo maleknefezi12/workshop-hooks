@@ -37,7 +37,6 @@ const AddMovie = ({ addNewMovie }) => {
             <ion-icon className="icon" name="play"></ion-icon>{" "}
           </span>
           <button className="addmoviie">+ Add new movie +</button>
-          
         </div>
         <Modal
           className="add-modal"
